@@ -79,6 +79,7 @@ def def_start():
             continue
         elif ui.pushButton_2.clicked:
             flag = False
+            print('ff')
         else:
             sleep(0.1)
 
